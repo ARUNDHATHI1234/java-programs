@@ -1,4 +1,4 @@
-class book{
+class Book{
 
     public static void main(String args[]) {
        Literature l = new Literature("Lit","A story of a Tree","ASCA");
