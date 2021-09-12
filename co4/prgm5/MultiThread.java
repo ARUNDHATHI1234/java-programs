@@ -2,7 +2,8 @@ import java.util.Scanner;
 class Numbers{
 	synchronized void mul(){
 	       int num=5;
-	       System.out.println("Multiplication table of 5:");		for(int i=1;i<=10;i++){
+	       System.out.println("Multiplication table of 5:");		
+		for(int i=1;i<=10;i++){
 		num=5*i;
 		System.out.println(5+"*"+i+"="+num);
 		try{
